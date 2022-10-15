@@ -1,0 +1,15 @@
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\bin\Release\netstandard2.0\EL.UploadFileAPI.deps.json
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\bin\Release\netstandard2.0\EL.UploadFileAPI.dll
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\bin\Release\netstandard2.0\EL.UploadFileAPI.pdb
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.csproj.AssemblyReference.cache
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.AssemblyInfoInputs.cache
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.AssemblyInfo.cs
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.csproj.CoreCompileInputs.cache
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\XamlC.stamp
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.dll
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\refint\EL.UploadFileAPI.dll
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\EL.UploadFileAPI.pdb
+E:\Examples\XamarinForms\EL.UploadFileAPI\EL.UploadFileAPI\obj\Release\netstandard2.0\ref\EL.UploadFileAPI.dll

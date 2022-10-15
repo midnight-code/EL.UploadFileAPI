@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EL.UploadFileAPI.MainPage">
+
+    <StackLayout>
+        <Label Text="Upload file from API" FontSize="Large"></Label>
+        <Button x:Name="btnFileUpload" Text="Upload File" FontSize="Large" Clicked="btnFileUpload_Clicked"></Button>
+        <Button x:Name="btnFileDownload" Text="Download File" FontSize="Large" Clicked="btnFileDownload_Clicked"></Button>
+        <Label x:Name="lblStatus" Text="" FontSize="Large" TextColor="Red" FontAttributes="Bold"></Label>
+        <Image x:Name="imgLoad" Source="cars.jpg" />
+    </StackLayout>
+
+</ContentPage>
